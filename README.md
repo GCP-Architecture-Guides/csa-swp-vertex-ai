@@ -18,8 +18,7 @@ The resources/services/activations/deletions that this module will create/trigge
 ## Usage
 1. Clone repo
 ```
-git clone https://github.com/jasonbisson/terraform-google-vertex-workbench.git
-
+git clone https://github.com/GCP-Architecture-Guides/csa-swp-vertex-ai.git
 ```
 
 2. Rename and update required variables in terraform.tvfars.template
